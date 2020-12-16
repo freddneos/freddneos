@@ -5,23 +5,22 @@ Welcome to my profile , here is my personal place and you'll find some weird thi
 
 ### Backend
  - Nodejs
- - Python
- - Go
- - .Net Core
+ - Elixir
+ - Phoenix
+ - Express
+ - GraphQL
  
 ### Frontend
- - Html
- - CSS
  - Javascript
  - Typescript
- - Angular 4+
  - React JS
+ - NextJS
  - Redux
- - Flow
+ - Apollo
+ - GraphQL
  
  ### Mobile
   - Flutter
   - React Native
-
-
+  
 ### Under construction...
