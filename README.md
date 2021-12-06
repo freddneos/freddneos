@@ -5,10 +5,8 @@ Welcome to my profile , here is my personal place and you'll find some weird thi
 
 ### Backend
  - Nodejs
- - Elixir
- - Phoenix
  - Express
- - GraphQL
+ - GraphQL Prisma
  
 ### Frontend
  - Javascript
@@ -16,11 +14,9 @@ Welcome to my profile , here is my personal place and you'll find some weird thi
  - React JS
  - NextJS
  - Redux
- - Apollo
- - GraphQL
+ - GraphQL Prisma
  
  ### Mobile
-  - Flutter
   - React Native
   
 ### Under construction...
