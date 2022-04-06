@@ -4,6 +4,9 @@ Welcome to my profile , here is my personal place and you'll find some weird thi
 
 
 ### Backend
+ - Elixir
+ - Javascript
+ - Typescript
  - Nodejs
  - Express
  - GraphQL Prisma
