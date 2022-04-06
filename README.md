@@ -12,12 +12,9 @@ Welcome to my profile , here is my personal place and you'll find some weird thi
  - GraphQL Prisma
  
 ### Frontend
- - Javascript
- - Typescript
  - React JS
  - NextJS
  - Redux
- - GraphQL Prisma
  
  ### Mobile
   - React Native
