@@ -5,12 +5,13 @@ Welcome to my profile , here is my personal place and you'll find some weird thi
 
 ### Backend
  - Elixir
- - Javascript
+ - Python
  - Typescript
  - Nodejs
  - Express
  - GraphQL Prisma
  - MongoDB
+ - PostgresQL
  
 ### Frontend
  - React JS
@@ -19,6 +20,6 @@ Welcome to my profile , here is my personal place and you'll find some weird thi
  
  ### Mobile
   - React Native
-  - Fun with Flutter
+  - Swift
   
 ### Under construction...
