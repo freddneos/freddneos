@@ -4,6 +4,10 @@
 
 Currently focused on **Agentic AI** and **AI Engineering** — shipping MVPs that solve real problems.
 
+Founder of [ATZ](https://auto-z.tech)
+
+And [ZoeLead](https://zoelead.tech)
+
 ---
 
 ### What I Build With
